@@ -1,4 +1,4 @@
-# Excel-VBA Project - The VBA of Wall Street
+# Excel-Project
 * I created a script that looped through all the stocks for one year and output the following information.
 
   * The ticker symbol.
